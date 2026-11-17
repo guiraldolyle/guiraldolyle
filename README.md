@@ -1,7 +1,10 @@
-Ciao! Dellan here.
-This is my profile, nothing much here.
-I play a lot of video games, like a lot. Maybe I game a lot vs programming.
-But I love programing. I like to build stuffs.
+Ciao! Arthur here.
+
+This is my profile. Nothing much to see here.
+
+I play a lot of video games. Like, A LOT. Maybe I spend more time gaming than programming, but I genuinely love programming. I like building stuff.
+
+I'm also a rockstar. Yes, I play in a band. 🤘
 
 I play video games.
 I code.
@@ -10,10 +13,4 @@ I growl.
 
 Arrivederci!
 
-PS.
-I am not Italian, I'm just learning italian.
-
-<!---
-guiraldolyle/guiraldolyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+P.S. I'm not Italian. I just like how it sounds.
